@@ -1,0 +1,21 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <m:FullCountryInfoResponse xmlns:m="http://www.oorsprong.org/websamples.countryinfo">
+         <m:FullCountryInfoResult>
+            <m:sISOCode>PT</m:sISOCode>
+            <m:sName>Portugal</m:sName>
+            <m:sCapitalCity>Lisbon</m:sCapitalCity>
+            <m:sPhoneCode>351</m:sPhoneCode>
+            <m:sContinentCode>EU</m:sContinentCode>
+            <m:sCurrencyISOCode>EUR</m:sCurrencyISOCode>
+            <m:sCountryFlag>http://www.oorsprong.org/WebSamples.CountryInfo/Flags/Portugal.jpg</m:sCountryFlag>
+            <m:Languages>
+               <m:tLanguage>
+                  <m:sISOCode>por</m:sISOCode>
+                  <m:sName>Portuguese</m:sName>
+               </m:tLanguage>
+            </m:Languages>
+         </m:FullCountryInfoResult>
+      </m:FullCountryInfoResponse>
+   </soap:Body>
+</soap:Envelope>

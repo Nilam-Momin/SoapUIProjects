@@ -1,0 +1,27 @@
+Test Suite,Test Case,Test Step,Step Type,Step Status,Result message,Execution Date
+CountryInfoServiceSoapBinding TestSuite,CountryISOCode TestCase,CountryISOCode,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,CountryISOCode TestCase,Groovy Script,groovy,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,CapitalCity TestCase,CapitalCity,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,CountryCurrency TestCase,CountryCurrency,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,CountryCurrency TestCase,Groovy Script,groovy,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,CurrencyName TestCase,CurrencyName,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,CountriesUsingCurrency TestCase,CountriesUsingCurrency,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,CountryFlag TestCase,CountryFlag,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,CountryIntPhoneCode TestCase,CountryIntPhoneCode,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,CountryName TestCase,CountryName,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,FullCountryInfo TestCase,FullCountryInfo,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,FullCountryInfo TestCase,Language PropertyTransfer,transfer,OK,"Message:Performed transfer [Language]
+Message:Performed transfer [LanguageISOCode]
+",19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,FullCountryInfo TestCase,LanguageISOCode,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,FullCountryInfo TestCase,LanguageName1,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,FullCountryInfoAllCountries TestCase,FullCountryInfoAllCountries,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,ListOfContinentsByCode TestCase,ListOfContinentsByCode,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,ListOfContinentsByName TestCase,ListOfContinentsByName,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,ListOfCountryNamesByCode TestCase,ListOfCountryNamesByCode,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,ListOfCountryNamesByName TestCase,ListOfCountryNamesByName,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,ListOfCountryNamesGroupedByContinent TestCase,ListOfCountryNamesGroupedByContinent,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,ListOfCurrenciesByCode TestCase,ListOfCurrenciesByCode,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,ListOfCurrenciesByName TestCase,ListOfCurrenciesByName,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,ListOfLanguagesByCode TestCase,ListOfLanguagesByCode,request,OK,,19-Aug-2020 00_20
+CountryInfoServiceSoapBinding TestSuite,ListOfLanguagesByName TestCase,ListOfLanguagesByName,request,OK,,19-Aug-2020 00_20
